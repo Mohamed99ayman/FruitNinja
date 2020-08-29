@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="openjfx-11.0.2_linux-x64_bin-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../openjfx-11.0.2_linux-x64_bin-sdk.zip!/" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext" recursive="false" />
+  </library>
+</component>
